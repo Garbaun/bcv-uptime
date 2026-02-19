@@ -58,6 +58,8 @@ NOTIFICATION_WEBHOOK=...
 
 ## 📅 Roadmap
 
+> Last updated: February 19, 2026
+
 - [ ] Basic uptime monitoring
 - [ ] Response time tracking
 - [ ] Telegram notifications
@@ -65,6 +67,7 @@ NOTIFICATION_WEBHOOK=...
 - [ ] Multi-user support
 - [ ] SSL certificate monitoring
 - [ ] Status page generator
+- [ ] Discord webhook support *(added 2026-02-19)*
 
 ## 📝 Lisans
 
